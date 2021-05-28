@@ -1,0 +1,2 @@
+It is based on a concept to rent cars and generate rental.
+User has to login system First, and then the user can select cars with a different model and rent for specific days.
